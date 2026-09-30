@@ -40,7 +40,7 @@ function About() {
             rel="noopener noreferrer"
             className="button primary"
           >
-            View My Résumé
+            View My Resume
           </a>
 
         </div>
